@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from './comps/Title';
-import UploadForm from './comps/UploadForm';
+import UploadForm from './comps/uploadForm';
 
 function App() {
   return (
@@ -10,5 +10,6 @@ function App() {
     </div>
 )
 }
+
 
 export default App;
